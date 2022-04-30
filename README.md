@@ -1,4 +1,4 @@
-# Spring Boot JWT Authentication example with Spring Security & Spring Data JPA and CONNECTED JOB CRUD OPERATION
+# Spring Boot JWT Authentication example with Spring Security & Spring Data JPA and Connected with Job Crud Operation
 
 ##  User Login and Authorization process and job crud operation.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
